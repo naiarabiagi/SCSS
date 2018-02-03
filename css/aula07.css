@@ -1,0 +1,56 @@
+.vermelho {
+  color: red; }
+
+.azul {
+  color: blue; }
+
+.vermelho {
+  color: red; }
+
+.amarelo {
+  color: yellow; }
+
+.vermelho {
+  color: red; }
+
+.amarelo {
+  color: yellow; }
+
+.verde {
+  color: green; }
+
+.branco {
+  color: white; }
+
+.erro {
+  fonte-color: #ffffff;
+  backgound-color: #abcdef;
+  width: 300px;
+  border: 1px #000000; }
+
+.selected {
+  border: 1px #000000 solid; }
+
+nav {
+  border: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    border-left: 0px;
+    border-right: 0px; }
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: nome;
+    fonte-family: "Times New Roman", Times, serif;
+    fonte-style: italic;
+    fonte-size: 14px; }
+  nav li {
+    display: inline-block; }
+  nav a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none; }
+
+.tema-azul aside {
+  backgroud: blue;
+  color: white; }

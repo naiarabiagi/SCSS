@@ -1,0 +1,20 @@
+.vermelho {
+  color: red; }
+
+.amarelo {
+  color: yellow; }
+
+.verde {
+  color: green; }
+
+.branco {
+  color: white; }
+
+.erro {
+  fonte-color: #ffffff;
+  backgound-color: #abcdef;
+  width: 300px;
+  border: 1px #000000; }
+
+.selected {
+  border: 1px #000000 solid; }
